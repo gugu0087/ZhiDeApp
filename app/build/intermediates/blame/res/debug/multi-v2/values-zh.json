@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\xycProject\\ZhiDeApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\SmartRefreshHeader-1.1.0-alpha-14.aar\\b840c4da23a3c3f36d321b246dc4b9ff\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,162,219,271,324,381",
+                        "endColumns": "52,53,56,51,52,56,56",
+                        "endOffsets": "103,157,214,266,319,376,433"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\library-1.0.7.aar\\2d9f18c3b8ef689eb70e951dbb9d1ba9\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,158,207,280,397,465,522,571,628,681,730,782",
+                        "endColumns": "51,50,48,72,116,67,56,48,56,52,48,51,52",
+                        "endOffsets": "102,153,202,275,392,460,517,566,623,676,725,777,830"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "438,490,541,590,663,780,848,905,954,1011,1064,1113,1165",
+                        "endColumns": "51,50,48,72,116,67,56,48,56,52,48,51,52",
+                        "endOffsets": "485,536,585,658,775,843,900,949,1006,1059,1108,1160,1213"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hasee\\.gradle\\caches\\transforms-1\\files-1.1\\SmartRefreshLayout-1.1.0-alpha-14.aar\\681ea28103927bb8bfe75998eb7e1fd3\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,255,306,357,410,465,519,575,629,680,731,784,838,894,948,1004",
+                        "endColumns": "107,91,50,50,52,54,53,55,53,50,50,52,53,55,53,55,60",
+                        "endOffsets": "158,250,301,352,405,460,514,570,624,675,726,779,833,889,943,999,1060"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1218,1326,1418,1469,1520,1573,1628,1682,1738,1792,1843,1894,1947,2001,2057,2111,2167",
+                        "endColumns": "107,91,50,50,52,54,53,55,53,50,50,52,53,55,53,55,60",
+                        "endOffsets": "1321,1413,1464,1515,1568,1623,1677,1733,1787,1838,1889,1942,1996,2052,2106,2162,2223"
+                    }
+                }
+            ]
+        }
+    ]
+}
